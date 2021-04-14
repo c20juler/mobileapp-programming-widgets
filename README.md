@@ -1,8 +1,6 @@
-# Rapport
+#Rapport - Assignment 3: Widgets 
 
-*Rapport - Assignment 3: Widgets 
-
-**Layout
+##Layout
 
 ```
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
@@ -64,6 +62,6 @@ En metod "onClick" lades till för knappen för att skriva ut ett Toast meddelan
 Variabeln my_button har fått åtkomst till knappen i layouten genom knappens id.
 
 
-**Screenshot i AVD för appens layout och widgets.
+##Screenshot i AVD för appens layout och widgets.
 
 ![](Screenshot_1618400539.png)
